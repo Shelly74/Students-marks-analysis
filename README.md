@@ -53,5 +53,5 @@ This chart shows the marks of each student for visual comparison.
 
 ## 👨‍💻 Author
 
-**Yasir Ali**  
-Aspiring Data Engineer | [GitHub](https://github.com/yasirali-datasci)
+**Shelly Garg**  
+Aspiring Data Engineer | [GitHub]((https://github.com/Shelly74))
